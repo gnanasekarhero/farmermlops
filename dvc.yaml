@@ -21,4 +21,4 @@ stages:
     - by_region.png
     metrics:
     - metrics.json:
-        cache: false
+        cache: TRUE
